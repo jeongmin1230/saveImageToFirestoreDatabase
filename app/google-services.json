@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454377204988",
+    "project_id": "usefirestore-ad858",
+    "storage_bucket": "usefirestore-ad858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454377204988:android:d5bdd717ec93f92f13bb79",
+        "android_client_info": {
+          "package_name": "org.techtown.saveimagetofirestoredatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454377204988-2tvaop18l1jdl8cd9f2bsce8qgatuco4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmjvY8lsGJOFHLDcuMHwmvMOsfOQNQKvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454377204988-2tvaop18l1jdl8cd9f2bsce8qgatuco4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
